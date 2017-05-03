@@ -1,4 +1,3 @@
-
 * What is KNOX ?
 * SAFE Devices/KNOX Standard SDK
 * KNOX Premium SDK
@@ -35,13 +34,15 @@
 ###### KIOSK MODE
 - 
 -
+---
 ###### Generic Push Notification
 - 
+---
 ###### GITPITCH
 - GitPitch is a service that turns PITCHME.md markdown into online and offline, interactive slideshows.
 - Each slideshow presentation is made instantly available online just as soon as you git-commit and push PITCHME.md on any branch within a public GitHub, GitLab or Bitbucket repo.
 - 
-
+---
 ###### How does GitPitch work?
 - https://github.com/hakimel/reveal.js
 - with GitPitch there is nothing to download. All you need is your favorite text editor. And an account on GitHub, GitLab, or Bitbucket.
