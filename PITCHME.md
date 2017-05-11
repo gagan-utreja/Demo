@@ -56,7 +56,8 @@
 - Each slideshow presentation is made instantly available online just as soon as you git-commit and push PITCHME.md on any branch within a public GitHub, GitLab or Bitbucket repo.
 ---
 ###### How does GitPitch work?
-- https://github.com/hakimel/reveal.js
 - with GitPitch there is nothing to download. All you need is your favorite text editor. And an account on GitHub, GitLab, or Bitbucket.
 !![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
+---
 - No more Keynote. No more PowerPoint. Just Markdown. Then git-commit on any branch within a public GitHub, GitLab or Bitbucket repo.
+- https://github.com/hakimel/reveal.js
