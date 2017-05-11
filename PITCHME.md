@@ -47,15 +47,13 @@
             "ref": "addBookmark",
             "package": "android.app.enterprise.MiscPolicy",
             "function": "addWebBookmark",
-            "parameters": {"uri":"https://github.com/", "title":"github" }
-        }]
-    }
-- 
+            "parameters": {"uri":"https://github.com/", 
+            "title":"github" }
+        }] }
 ---
 ###### GITPITCH
 - GitPitch is a service that turns PITCHME.md markdown into online and offline, interactive slideshows.
 - Each slideshow presentation is made instantly available online just as soon as you git-commit and push PITCHME.md on any branch within a public GitHub, GitLab or Bitbucket repo.
-- 
 ---
 ###### How does GitPitch work?
 - https://github.com/hakimel/reveal.js
