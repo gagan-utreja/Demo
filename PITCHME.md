@@ -57,7 +57,7 @@
 ---
 ###### How does GitPitch work?
 - with GitPitch there is nothing to download. All you need is your favorite text editor. And an account on GitHub, GitLab, or Bitbucket.
-!![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
+![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
 ---
 - No more Keynote. No more PowerPoint. Just Markdown. Then git-commit on any branch within a public GitHub, GitLab or Bitbucket repo.
 - https://github.com/hakimel/reveal.js
