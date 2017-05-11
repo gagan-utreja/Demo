@@ -16,7 +16,8 @@
 ---
 ###### e-fuse
 - Samsung Knox devices use an e-fuse to indicate whether or not an "untrusted" (non-Samsung) boot path has ever been run.
-- Rooting the device and installing a non-Samsung Android release will therefore set the e-fuse. Once the e-fuse is set, a device can no longer  create a KNOX Container, or access the data previously stored in an existing KNOX Container.
+- Rooting the device and installing a non-Samsung Android release will therefore set the e-fuse. Once the e-fuse is set, a device can no longer  
+- Create a KNOX Container, or access the data previously stored in an existing KNOX Container.
 ---
 ###### SAFE Devices/KNOX Standard SDK
 - Hardware 
