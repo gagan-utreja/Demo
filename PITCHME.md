@@ -1,3 +1,4 @@
+
 * What is KNOX ?
 * SAFE Devices/KNOX Standard SDK
 * KNOX Premium SDK
@@ -6,10 +7,15 @@
 * GITPITCH
 ---
 ###### What is KNOX
-- Samsung KNOX is a new Android-based solution specifically designed to enhance security of the current open source Android platform.
-
-- Samsung Knox provides security features that enable business and personal content to coexist on the same handset. The user presses an icon that switches from Personal to Work use with no delay or reboot wait time.The manufacturer has claimed this feature will be fully compatible with Android and Google and will provide full separation of work and personal data on mobile devices and "addresses all major security gaps in Android.
+- Samsung Knox is an enterprise mobile security solution.
+- Samsung Knox provides security features that enable business and personal content to coexist on the same handset. The user presses an icon that switches from Personal to Work use with no delay or reboot wait time.
+- The Knox service is part of the company's "Samsung Approved For Enterprise" (SAFE) offerings for smartphones and tablets. 
+- Samsung Knox's primary  competitor is Blackberry Balance, a service that separates personal and work data. 
 ---
+###### e-fuse
+- Samsung Knox devices use an e-fuse to indicate whether or not an "untrusted" (non-Samsung) boot path has ever been run.
+- Rooting the device and installing a non-Samsung Android release will therefore set the e-fuse. Once the e-fuse is set, a device can no longer  create a KNOX Container, or access the data previously stored in an existing KNOX Container.
+----
 ###### SAFE Devices/KNOX Standard SDK
 - Hardware 
 - Apps 
@@ -17,25 +23,30 @@
 - Email 
 - Connectivity 
 - Security
-
----
-- Data backup 
+--- 
 - Inventory 
 - Kiosk mode
 - Location services
 - Help desk
 ---
 ###### KNOX Premium SDK
-- Knox containers 
-- Single Sign-On (SSO) 
-- Virtual Private Networks (VPNs) 
-- SmartCards 
+- Knox containers You can create a secure container to protect corporate apps and data from potential malware outside the container. You can also fully control, manage, and restrict interactions between apps inside and outside the container.
+
 ---
 ###### KIOSK MODE
-- 
--
+
+- You can customize a device for a kiosk, by providing access to only one or a few apps and restricting access to the underlying Android system.
 ---
 ###### Generic Push Notification
+- Document Name : samsung-mdm
+- Document Body : {
+        "actions": [{
+            "ref": "addBookmark",
+            "package": "android.app.enterprise.MiscPolicy",
+            "function": "addWebBookmark",
+            "parameters": {"uri":"https://github.com/", "title":"github" }
+        }]
+    }
 - 
 ---
 ###### GITPITCH
