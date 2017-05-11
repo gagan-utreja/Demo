@@ -9,6 +9,8 @@
 ###### What is KNOX
 - Samsung Knox is an enterprise mobile security solution.
 - Samsung Knox provides security features that enable business and personal content to coexist on the same handset. The user presses an icon that switches from Personal to Work use with no delay or reboot wait time.
+
+---
 - The Knox service is part of the company's "Samsung Approved For Enterprise" (SAFE) offerings for smartphones and tablets. 
 - Samsung Knox's primary  competitor is Blackberry Balance, a service that separates personal and work data. 
 ---
