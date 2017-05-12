@@ -14,11 +14,6 @@
 - The Knox service is part of the company's "Samsung Approved For Enterprise" (SAFE) offerings for smartphones and tablets. 
 - Samsung Knox's primary  competitor is Blackberry Balance, a service that separates personal and work data. 
 ---
-###### e-fuse
-- Samsung Knox devices use an e-fuse to indicate whether or not an "untrusted" (non-Samsung) boot path has ever been run.
-- Rooting the device and installing a non-Samsung Android release will therefore set the e-fuse. Once the e-fuse is set, a device can no longer  
-- Create a KNOX Container, or access the data previously stored in an existing KNOX Container.
----
 ###### SAFE Devices/KNOX Standard SDK
 - Hardware 
 - Apps 
@@ -28,9 +23,8 @@
 - Security
 --- 
 - Inventory 
-- Kiosk mode
 - Location services
-- Help desk
+- Help desk : Screen Capture
 ---
 ###### KNOX Premium SDK
 - Knox containers You can create a secure container to protect corporate apps and data from potential malware outside the container. You can also fully control, manage, and restrict interactions between apps inside and outside the container.
@@ -52,7 +46,7 @@
         }] }
 ---
 ###### GITPITCH
-- GitPitch is a service that turns PITCHME.md markdown into online and offline, interactive slideshows.
+- GitPitch is a service that turns PITCHME.md markdown into interactive slideshows.
 - Each slideshow presentation is made instantly available online just as soon as you git-commit and push PITCHME.md on any branch within a public GitHub, GitLab or Bitbucket repo.
 ---
 ###### How does GitPitch work?
