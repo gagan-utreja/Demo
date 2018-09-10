@@ -1,5 +1,4 @@
 
-Test Branch ---- Testing
 * What is KNOX ?
 * SAFE Devices/KNOX Standard SDK
 * KNOX Premium SDK
